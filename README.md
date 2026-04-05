@@ -49,4 +49,4 @@ This project analyzes customer churn behavior using SQL and Power BI. The goal i
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](dashboard_screenshot.png)
