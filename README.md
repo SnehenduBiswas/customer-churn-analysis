@@ -50,3 +50,12 @@ This project analyzes customer churn behavior using SQL and Power BI. The goal i
 
 ## 📸 Dashboard Preview
 ![Customer Churn Dashboard](Dashboard%20Screenshots/main_dashboard.png)
+
+## 📸 High Risk SegmentDashboard Preview
+![Customer Churn Dashboard](Dashboard%20Screenshots/dashboard_screenshot_high_risk.png)
+
+## 📸 Low Risk SegmentDashboard Preview
+![Customer Churn Dashboard](Dashboard%20Screenshots/dashboard_screenshot_low_risk.png)
+
+## 📸 Medium Risk SegmentDashboard Preview
+![Customer Churn Dashboard](Dashboard%20Screenshots/dashboard_screenshot_medium_risk.png)
